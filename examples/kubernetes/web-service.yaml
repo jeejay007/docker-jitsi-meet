@@ -23,7 +23,7 @@ spec:
    namespace: jitsi
  spec:
   rules:
-  - host: ...
+  - host: meet.kloudnirvana.com
     http:
       paths:
       - path: /
